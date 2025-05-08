@@ -1,17 +1,15 @@
-- 👋 Hi, I’m @jinbae123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 세상을 바꾸는 작은 노력들
+Whitmem은 비영리 및 개인 필자의 닉네임으로, 필자의 여가 시간에서 우려낸 소프트웨어, 기술, 음악, 작은 노력들을 기록하는 공간이기도 합니다. 이 공간에 존재하는 대부분의 기록들은 해당 분야에 관심있는 또 다른 저 같은 분들을 위해 게시하는 것으로, 사소한 게시글 하나라도 당신에게 도움이 되기를 소망합니다.
 
-<!---
-jinbae123/jinbae123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-C#과 Java 주로 이용,<br>html, javascript, css, php<br>기타 용도로 C++ 활용...<br>
-서버 및 내부 서버망 직접 구축,,, 네트워크 내부망 인프라 구축... 정도만 주로 합니다....
-<br>
-응애... 응애!!<br>
-사이트 : https://whitmem.xyz/
-<br>
-깃헙 잘 사용안합ㄷ니다 사이트와서보세요ㅕ
+이 세상 모든 결과물들은 어떤 형태로든 누군가와 나누기 위한 것이고, 아무리 훌륭한들 알려지지 않는다면 작품의 의미가 없다고 생각합니다. _어차피 지나오는 길이고 누군가 방문할 길이라면 사소한 이정표라도 세워두는 것이 예의라고 생각합니다._
+
+_저도 성장하고, 그리고 이 게시글을 읽는 당신도 성장하는 그런 기록 공간_
+
+
+
+### 단순한 프로그래밍을 넘어 소프트웨어와 그 기술을 창작합니다.
+아래 홈페이지는 실제 서비스되는 건 아니지만, 필자의 기록을 작성하는 단방향 홈페이지입니다. 부끄럽지만 필자가 추구하는 이야기를 탐험해보고 각종 다양한 기록을 열람해보세요.
+- [Whitmemit 소개](https://whitmem.xyz/explore/)
+- [Whitmemit 작곡](https://whitmem.xyz/legacy/)
+- [Whitmemit 홈페이지](https://whitmem.kr/)
+- [Whitmemit 창작](https://whitmem.xyz/beta/)
