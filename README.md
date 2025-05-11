@@ -10,6 +10,7 @@ _저도 성장하고, 그리고 이 게시글을 읽는 당신도 성장하는 �
 ### 단순한 프로그래밍을 넘어 소프트웨어와 그 기술을 창작합니다.
 아래 홈페이지는 실제 서비스되는 건 아니지만, 필자의 기록을 작성하는 단방향 홈페이지입니다. 부끄럽지만 필자가 추구하는 이야기를 탐험해보고 각종 다양한 기록을 열람해보세요.
 - [Whitmemit 소개](https://whitmem.xyz/explore/)
+- [Whitmemit 연구(영문)](https://whitmem.xyz/research/)
 - [Whitmemit 작곡](https://whitmem.xyz/legacy/)
 - [Whitmemit 홈페이지](https://whitmem.kr/)
 - [Whitmemit 창작](https://whitmem.xyz/beta/)
