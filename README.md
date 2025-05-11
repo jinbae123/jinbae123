@@ -13,3 +13,5 @@ _저도 성장하고, 그리고 이 게시글을 읽는 당신도 성장하는 �
 - [Whitmemit 작곡](https://whitmem.xyz/legacy/)
 - [Whitmemit 홈페이지](https://whitmem.kr/)
 - [Whitmemit 창작](https://whitmem.xyz/beta/)
+
+![profile](https://whitmem.kr:729/view.php?id=C2df741b79ec65d6c562b_690468690054278_826628)
