@@ -1,3 +1,5 @@
+![profile](https://whitmem.kr:729/view.php?id=C2df741b79ec65d6c562b_690468690054278_826628)
+
 ## 세상을 바꾸는 작은 노력들
 Whitmem은 비영리 및 개인 필자의 닉네임으로, 필자의 여가 시간에서 우려낸 소프트웨어, 기술, 음악, 작은 노력들을 기록하는 공간이기도 합니다. 이 공간에 존재하는 대부분의 기록들은 해당 분야에 관심있는 또 다른 저 같은 분들을 위해 게시하는 것으로, 사소한 게시글 하나라도 당신에게 도움이 되기를 소망합니다.
 
@@ -14,5 +16,3 @@ _저도 성장하고, 그리고 이 게시글을 읽는 당신도 성장하는 �
 - [Whitmemit 작곡](https://whitmem.xyz/legacy/)
 - [Whitmemit 홈페이지](https://whitmem.kr/)
 - [Whitmemit 창작](https://whitmem.xyz/beta/)
-
-![profile](https://whitmem.kr:729/view.php?id=C2df741b79ec65d6c562b_690468690054278_826628)
